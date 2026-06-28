@@ -211,6 +211,13 @@ java PreCreditCardValidation
 - ISO/IEC 7812 Identification Cards – Numbering System.
 - https://en.wikipedia.org/wiki/Luhn_algorithm
 
+
+---
+## Additional Resources for this Project For Testing.
+- Credit Card Checker - https://dnschecker.org/credit-card-validator.php?ccn=5555500830030331
+- Paypal Test Cards - https://www.paypalobjects.com/en_GB/vhelp/paypalmanager_help/credit_card_numbers.htm
+- Master Cards Test Cards - https://developer.mastercard.com/mastercard-merchant-presented-qr/documentation/server-apis/test-card-numbers/
+
 ---
 
 ## License
